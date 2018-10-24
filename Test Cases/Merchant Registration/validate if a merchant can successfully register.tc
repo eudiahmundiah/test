@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>The test case will validate if the merchant can sign up in the system successfully using the right data</description>
+   <name>validate if a merchant can successfully register</name>
+   <tag>Merchant Registration</tag>
+   <comment></comment>
+   <testCaseGuid>063afa4f-01e5-4333-89d3-91fdeb2985a8</testCaseGuid>
+</TestCaseEntity>

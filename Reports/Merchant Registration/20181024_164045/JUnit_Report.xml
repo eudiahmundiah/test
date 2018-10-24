@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Merchant Registration" time="0" tests="1" failures="0" errors="0">
+   <testsuite name="Merchant Registration" tests="1" failures="0" errors="0" time="0" timestamp="2018-10-24 16:40:49" hostname="Flexpay - Flexpay-PC" id="Test Suites/Merchant Registration">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Flexpay\\Katalon Studio\\Flexpay Version 2.1 Merchant Sign Up\\Reports\\Merchant Registration\\20181024_164045"/>
+         <property name="logFiles" value="C:\\Users\\Flexpay\\Katalon Studio\\Flexpay Version 2.1 Merchant Sign Up\\Reports\\Merchant Registration\\20181024_164045\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Flexpay - Flexpay-PC"/>
+         <property name="hostAddress" value="192.168.0.110"/>
+         <property name="os" value="Windows 7 32bit"/>
+         <property name="katalonVersion" value="5.8.0.1"/>
+      </properties>
+      <testcase name="Test Cases/Merchant Registration/validate if a merchant can successfully register" classname="Test Cases/Merchant Registration/validate if a merchant can successfully register" status="PASSED">
+         <system-out><![CDATA[2018-10-24 16:40:50 - [TEST_CASE][PASSED] - Test Cases/Merchant Registration/validate if a merchant can successfully register: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-10-24 16:40:49 - [TEST_SUITE][INCOMPLETE] - Merchant Registration: null]]></system-out>
+      <system-err><![CDATA[2018-10-24 16:40:49 - [TEST_SUITE][INCOMPLETE] - Merchant Registration: null]]></system-err>
+   </testsuite>
+</testsuites>

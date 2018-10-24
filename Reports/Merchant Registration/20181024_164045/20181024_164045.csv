@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+Merchant Registration,,,2018-10-24 16:40:49,2018-10-24 16:40:50,0.700s,INCOMPLETE
+,,,,,,
+Test Cases/Merchant Registration/validate if a merchant can successfully register,,The test case will validate if the merchant can sign up in the system successfully using the right data,2018-10-24 16:40:50,2018-10-24 16:40:50,0.016s,PASSED
